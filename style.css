@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.topsection{
+    background-image:url("background/top-banner.png");
+    background-repeat: no-repeat;
+   
+    height: 700px;
+}
+.heading{
+    font-size: 25px;
+    padding: 5%;
+    width: 35%;
+    
+}
+.myname{
+    color: orange;
+}
+
+.objective{
+    width: 40%;
+    float: left;
+    margin:2%;
+    padding-left: 2%;
+}
+.objective p{
+    text-align: justify;
+}
+.btn{
+    text-decoration: none;
+    border: orangered;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: black;
+    font-size: 18px;
+    background-image:linear-gradient(45deg, lightsalmon,tomato);
+
+}
+
+.profileimage{
+    width: 40%;
+    float: left;
+    margin:2%;
+    padding-left: 2%;
+}
+.profileimage img{
+    width: 70%;
+}
+.middlesection{
+   
+    height: 400px;
+    background-image: url("background/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.profileimage2{
+    width: 40%;
+    margin:2%;
+    padding-left: 2%;
+    float: left;
+
+}
+.profileimage2 img{
+    width: 70%;
+}
+.qualification{
+    width: 40%;
+    float: left;
+    margin:2%;
+    padding:2%;
+}
+.qulification p{
+    font-weight: 700;
+    font-style: italic;
+    color: rgb(202, 96, 244);
+}
+
+
+
+
