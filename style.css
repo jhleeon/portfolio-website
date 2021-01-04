@@ -76,6 +76,52 @@ body{
     font-style: italic;
     color: rgb(202, 96, 244);
 }
+.bottomsection{
+
+    height: 400px;
+    background-image: url("background/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+ 
+    
+ 
+}
+ 
+
+.lastpart{
+
+    width: 35%;
+    margin-left: 7%;
+    padding: 2%;
+    height: 60%;
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+  
+ 
+}
+.exp{
+    margin-left: 4%;
+}
+.lastpart h2{
+    font-size: 19px;
+}
+.lastpart h3{
+    color: orangered;
+
+}
+
+#webdiv{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+    background: white;
+}
+#digitaldiv{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,blue,purple);
+    border-image-slice: 1;
+}
+
 
 
 
